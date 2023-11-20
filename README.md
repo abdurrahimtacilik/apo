@@ -87,7 +87,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 <p align="center">
-  <img height="150" width="150" src="https://raw.githubusercontent.com/abdurrahimtacilik/abdurrahimtacilik/master/WEBP/left.webp">
+  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=abdurrahimtacilik&theme=dark&background=000000"/>
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
